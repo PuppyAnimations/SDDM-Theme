@@ -4,17 +4,16 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/PuppyAnimations/SDDM-Theme?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/PuppyAnimations/SDDM-Theme?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/PuppyAnimations/SDDM-Theme?style=for-the-badge&color=cba6f7)
 
-<br/>
+<br>
 </div>
 
-<h2 align=center>Preview</h2>
-<center>
-   
 <div align="center">
 
-A Simple theme variant for the <a href="https://github.com/sddm/sddm">SDDM Login Manager</a>
+#### Preview
 
 <img src="./Previews/1.png" alt="preview-1">
+
+A Simple theme variant for the <a href="https://github.com/sddm/sddm">SDDM Login Manager</a>
 
 </div>
 
