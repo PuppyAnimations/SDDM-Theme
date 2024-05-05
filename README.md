@@ -18,13 +18,13 @@ A Simple theme variant for the <a href="https://github.com/sddm/sddm">SDDM Login
 
 </div>
 
-## Install
+#### Install
 > _Assumes that you've installed and configured SDDM correctly_ (if not [read more](https://wiki.archlinux.org/title/SDDM)).
 
 >  Please make sure you have the following dependencies installed for Arch Linux:
 - `qt6-5compat` `qt6-declarative` `qt6-svg` `sddm` 
 
-## Configure
+#### Configure
 
 Edit the `/etc/sddm.conf.d/10-theme.conf` (with any text editor with **raised** privileges), so that it looks like this:
 
@@ -37,7 +37,7 @@ sudo nano /etc/sddm.conf.d/10-theme.conf  # use any text editor with raised priv
 Current=simple-sddm-2
 ```
 
-### Language and time format
+#### Language and time format
 - By default, it is configured with AM/PM format. You can change to 24H variant by editing the theme.conf
 
 ```bash
@@ -49,5 +49,5 @@ sudo nano /usr/share/sddm/themes/simple-sddm/theme.conf  # use any text editor w
 - You can also customize it further if you wish in the `theme.conf`
 (blur, form position, etc).
 
-## Credits
+#### Credits
 - Full credit goes to [original autor](https://github.com/Keyitdev/sddm-astronaut-theme) by [Keyitdev](https://github.com/Keyitdev).
